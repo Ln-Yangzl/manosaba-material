@@ -59,3 +59,5 @@ python semantic_search.py --model "BAAI/bge-m3" --use_trans_only --query "我们
 E:/file/素材/manosaba/textWorkSpace/.venv/Scripts/python.exe semantic_search.py --jsonl Sherry/sherry_extracts.jsonl --query_file queries.txt --top_k 5 --threshold 0.3 --no_expand --use_trans_only
 
 python semantic_search.py --jsonl Hanna/hanna_extracts1.jsonl --query_file hanna_voice_query.txt --top_k 10 --threshold 0.3 --no_expand --use_trans_only
+
+python semantic_search.py --jsonl Ema/ema_extracts.jsonl --query_file ema_voice_query.txt --top_k 10 --threshold 0.3 --no_expand --use_trans_only
