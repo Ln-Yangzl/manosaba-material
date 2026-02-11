@@ -6,4 +6,10 @@
 要一直在牢房里待下去吗
 最后只会剩下我一个人吗
 
-// trial 1 start voice
+// accelerate witch
+魔女化加深
+魔女化严重
+
+// suppress witch
+不能魔女化
+坚持住
